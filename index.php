@@ -173,7 +173,7 @@
         </a>
       </li>
       <li>
-        <a href="./fatima">
+        <a href="./fatima.docx">
           <span class="name">Fátima Marroquín Rentería</span>
           <span class="icon">Ver CV →</span>
         </a>
